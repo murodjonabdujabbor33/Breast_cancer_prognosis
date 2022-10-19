@@ -28,7 +28,7 @@ How to install project? npm install? Make re?
 
 To run the program in the jupyter notebook, you need to import the pandas, numpy, matplotlib, seaborn and sklearn packages.
 
-#USAGE
+# USAGE
 How does it work?
 
 the program is run through jupyter notebook.
