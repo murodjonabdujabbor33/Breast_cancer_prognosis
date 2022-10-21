@@ -1,11 +1,11 @@
 # TASK
-What is the problem?
+### What is the problem?
 
 Breast cancer is the most common disease among women. Define it using the given parameters.
 Description - Breast cancer is a common disease in women worldwide. It accounts for 25% of all cancers. Breast cancer starts when cells in the breast grow out of control. These cells are usually detected by examining tumors that can be seen on X-rays.
 
 # DESCRIPTION
-How have you solved the problem?
+### How have you solved the problem?
 
 I did this project in 7 steps.
 Load Dataset
@@ -24,11 +24,11 @@ In the machine learning section, the data is split into train_set and test_set u
 In the model evaluation part, several methods were used to evaluate our model. These are Jaccard index, Confusion matrix, Precision, recall, F1 and Cross validation.
 
 # INSTALLATION
-How to install project? npm install? Make re?
+### How to install project? npm install? Make re?
 
 To run the program in the jupyter notebook, you need to import the pandas, numpy, matplotlib, seaborn and sklearn packages.
 
 # USAGE
-How does it work?
+### How does it work?
 
 the program is run through jupyter notebook.
